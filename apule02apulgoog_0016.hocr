@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "apule02apulgoog_0016.png"; bbox 0 0 2756 4730; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 614 3963 1230 4098">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 614 3963 1230 4098">
+     <span class='ocr_line' id='line_1_1' title="bbox 614 3963 1230 4010; baseline 0.015 -9"><span class='ocrx_word' id='word_1_1' title='bbox 614 3963 727 4002; x_wconf 69' lang='lat' dir='ltr'><strong>mms.-</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 735 3965 882 4005; x_wconf 69' lang='lat' dir='ltr'><strong>{mmmm</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 895 3967 930 4005; x_wconf 81' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 942 3967 965 4006; x_wconf 83' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 978 3968 1000 4005; x_wconf 65' lang='lat'><strong>1„</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1014 3967 1035 4006; x_wconf 80' lang='lat' dir='ltr'><strong>F.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1050 3964 1230 4010; x_wconf 66' lang='lat' dir='ltr'><strong>menonem.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 781 4033 1077 4098; baseline 0 -26"><span class='ocrx_word' id='word_1_8' title='bbox 781 4035 821 4073; x_wconf 78' lang='lat' dir='ltr'><strong>Rue</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 834 4033 869 4076; x_wconf 72' lang='lat' dir='ltr'><strong>deu</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 883 4033 994 4098; x_wconf 67' lang='grc' dir='ltr'><strong>Ροίιενίῃε,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1009 4047 1029 4074; x_wconf 92' lang='lat' dir='ltr'><strong>n.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1045 4033 1077 4083; x_wconf 64' lang='grc' dir='ltr'><strong>ιᾸ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1382 4730">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1382 4730">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1382 4730; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 0 1382 4730; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
